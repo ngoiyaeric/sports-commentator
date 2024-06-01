@@ -1,7 +1,7 @@
 # Sports-commentator
  GPT Sports commentator
 
-This script uses OpenCV and OpenAI's API to generate live soccer commentary based on a video of a soccer match. It reads the video frames, processes them, and creates an engaging play-by-play commentary. The commentary is then converted to audio and saved as an MP3 file.
+This script uses OpenCV and OpenAI's API to generate live sports commentary based on a video of a sport match. It reads the video frames, processes them, and creates an engaging play-by-play commentary. The commentary is then converted to audio and saved as an MP3 file.
 
 Prerequisites
 Python 3.7 or higher
